@@ -1,6 +1,3 @@
-# بسم الله الرحمن الرحیم
-# Mehran Nosrati | Drug–target interaction prediction | 1403 |
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import torch
