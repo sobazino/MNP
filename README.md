@@ -1,4 +1,4 @@
-# MNP
+# SAP
 
 **<p align="center">Drug–target interaction prediction</p>**
 
