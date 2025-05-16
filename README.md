@@ -1,4 +1,4 @@
-# SAP
+# Structure-aware Aggregation and Pooling
 
 **<p align="center">Drug–target interaction prediction</p>**
 
