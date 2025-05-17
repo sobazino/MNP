@@ -17,6 +17,8 @@ Identifying the interactions between drugs and target proteins is a key step in 
 ### RUN:
 
 ```
+drug.py
+protein.py
 main.py
 ```
 
