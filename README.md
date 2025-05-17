@@ -19,3 +19,5 @@ Identifying the interactions between drugs and target proteins is a key step in 
 ```
 main.py
 ```
+
+Place all PDB files (3D protein structures) in the DBP/ folder before running
