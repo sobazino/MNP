@@ -148,7 +148,7 @@ class MNGRAPH(nn.Module):
 class S(nn.Module):
     def __init__(self, device):
         super(S, self).__init__()
-        self.L1 = MNGRAPH(6, device)
+        self.L1 = MNGRAPH(7, device)
         self.L2 = MNGRAPH(12, device)
         self.L3 = MNGRAPH(24, device)
         self.relu = nn.ReLU()
